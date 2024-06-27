@@ -1,7 +1,7 @@
 ## Last Updated: 2024-06-27
 # SkyScan 1272 Micro-CT Standard Operating Procedures (SOPs)
 
-### Quick Start Guide - For detailed instructions, refer to the [SkyScan 1272 User Manual](https://example.com/sky-scan-quick-guide).
+### Quick Start Guide - For detailed instructions, refer to the [SkyScan 1272 User Manual](https://github.com/Faculty-of-Agriculture-CSI-Microscopy/Skyscan-1272-MicroCT/blob/main/manuals/1272_UserManual_v1_2.pdf).
 
 ### PURPOSE
 
@@ -26,8 +26,8 @@
 ### PROCEDURE
 
 #### 1. Sample Preparation
-- Samples should be either dense or, if biological and not dense, stained.
-- It is favorable to mount samples in air rather than in a liquid environment. Moist/wet samples should be mounted within a vapor chamber to prevent drying during the scan.
+- Samples should be either dense or stained if biological and not dense.
+- Mounting samples in the air rather than in a liquid environment is favorable. Moist/wet samples should be mounted within a vapor chamber to prevent drying during the scan.
 - Place the sample on a mounting device or use the instrument's tubes for multiple scans.
 
 #### 2. Log into the System
@@ -60,7 +60,7 @@
 
 #### 8. Set Scanning Parameters
 - Press the scan button and determine your scanning parameters (rotation step, averaging, random movement, and 360° scanning). Direct the scan to its designated folder and give it a name.
-- If you scan multiple samples or large samples: press Options => batch/oversize scanning => mark your scans with the mouse while pressing the Ctrl button. Add each scan by repeating this stage.
+- If you scan multiple samples or large samples, press: Options => batch/oversize scanning => mark your scans with the mouse while pressing the Ctrl button. Add each scan by repeating this stage.
 
 #### 9. Start the Scan
 - Press "scan" and ensure the machine starts to scan.
